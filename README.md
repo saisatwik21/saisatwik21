@@ -4,8 +4,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <h5 align="center">Thank you Visiting my profile ☺</h5>
 <h6 align="center">Have a Great day 👍 & Happy Coding! 🙂</h6>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisatwik21&label=Profile%20views&color=0e75b6&style=flat
-    " alt="saisatwik21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisatwik21&label=Profile%20views&color=0e75b6&style=flat" alt="saisatwik21" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisatwik21" alt="saisatwik21" /></a> </p>
 <p align="left"> <a href="https://twitter.com/satwik1221?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/satwik1221?s=twitter&style=for-the-badge" alt="saisatwik21" /></a> </p>
 
