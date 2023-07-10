@@ -1,4 +1,4 @@
-
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm VENKATA SAI SATWIK KAPAGANTI</h1>
 <h2 align="center"> You can call me Satwik 👨‍💻</h2>
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -48,6 +48,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisatwik21&&theme=tokyonight" alt="saisatwik21" /></p>
+
 
 ### ✍️ Random Dev Quote
 <p align="justify">"Code is like poetry; a beautiful creation of logic and creativity." 
