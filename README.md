@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/l3vR5MfMvUGp8XT0U/giphy.gif)
+![MasterHead](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 <h1 align="center">Hi 👋, I'm VENKATA SAI SATWIK KAPAGANTI</h1>
 <h2 align="center"> You can call me Satwik 👨‍💻</h2>
 <h3 align="center">A passionate Software Developer from India</h3>
