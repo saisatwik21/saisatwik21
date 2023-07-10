@@ -1,4 +1,4 @@
-![MasterHead](https://devpunch.com/img/Dev-At-Work-Gif.jpg)
+
 <h1 align="center">Hi 👋, I'm VENKATA SAI SATWIK KAPAGANTI</h1>
 <h2 align="center"> You can call me Satwik 👨‍💻</h2>
 <h3 align="center">A passionate Software Developer from India</h3>
