@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **FULL STACK Development**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DevOps and Data Structures and Algorithms**
 
 - 💬 Ask me about **java , python , C++ , C , Django , Html , CSS , JavaScript ,Cloud Computing , Bootstrap**
 
