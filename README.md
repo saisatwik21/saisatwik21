@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm VENKATA SAI SATWIK KAPAGANTI</h1>
 <h2 align="center"> You can call me Satwik 👨‍💻</h2>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer ❤️ from India 🇮🇳</h3>
 <h5 align="center">Thank you Visiting my profile ☺</h5>
 <h6 align="center">Have a Great day 👍 & Happy Coding! 🙂</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisatwik21&label=Profile%20views&color=0e75b6&style=flat" alt="saisatwik21" /> </p>
