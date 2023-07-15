@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/satwik1221?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/satwik1221?s=twitter&style=for-the-badge" alt="saisatwik21" /></a> </p>
 
 
-- 🔭 I’m currently working on **FULL STACK Development**
+- 🔭 I’m currently working on **FULL STACK WEB Development**
 
 - 🌱 I’m currently learning **DevOps and Data Structures and Algorithms**
 
