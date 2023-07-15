@@ -54,5 +54,6 @@
 <p align="justify">"Code is like poetry; a beautiful creation of logic and creativity." 
     <br>
     "Software development: turning ideas into reality, one line of code at a time."</p>
+    <hr>
 
 
