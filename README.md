@@ -31,22 +31,22 @@
 
 
  # 💻 Tech Stack:
- <h1>Programming Languages</h1>
+
  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<h1>WEB DEVELOPMENT</h1>
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<h1>DATA BASES</h1>
+
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<h1>FrameWorks</h1>
+
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-<h1>COMPUTER SUBJECTS</h1>
+
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
