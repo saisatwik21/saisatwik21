@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DevOps and Data Structures and Algorithms**
 
-- 💬 Ask me about **java , python , C++ , C , Django , Html , CSS , JavaScript ,Cloud Computing , Bootstrap , jQuery**
+- 💬 Ask me about **java , python , C++ , C , Django , Html , CSS , JavaScript ,Cloud Computing , Bootstrap , jQuery , MongoDB**
 
 - 📫 How to reach me **saisatwik175@gmail.com**
 
