@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **FULL STACK WEB Development**
 
-- 🌱 I’m currently learning **DevOps and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **java , python , C++ , C , Django , Html , CSS , JavaScript ,Cloud Computing , Bootstrap , jQuery , MongoDB , Nodejs , Expressjs.**
 
