@@ -1,5 +1,8 @@
 
-<img  src="./thoughtworks-gif_dribbble.gif"  align="center" width="auto" />
+<p align="center">
+  <img src="./thoughtworks-gif_dribbble.gif" alt="Centered Image">
+</p>
+
 <h1 align="center">Hi 👋, I'm VENKATA SAI SATWIK KAPAGANTI</h1>
 <h2 align="center"> You can call me Satwik 👨‍💻</h2>
 <h3 align="center">A passionate Software Developer ❤️ from India 🇮🇳</h3>
