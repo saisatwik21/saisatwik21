@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on **DevOps Automation and Infrastructure as Code (IaC)**  
 - 🌱 I’m currently learning **Kubernetes Advanced Concepts, GitOps & CI/CD pipelines**  
-- 💬 Ask me about **Terraform, Docker, Kubernetes, Ansible, Linux, Shell Scripting, CI/CD, Jenkins, GitHub Actions, Monitoring, Cloud Services (GCP, AWS)**  
+- 💬 Ask me about **Terraform, Docker, Kubernetes, Ansible, Linux, Shell Scripting, CI/CD, Jenkins, GitHub Actions, Monitoring, Cloud Services (AWS, Azure, GCP)**  
 - 📫 How to reach me: **saisatwik175@gmail.com**
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -58,9 +58,11 @@
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🧩 Monitoring & Logging
+![Nagios](https://img.shields.io/badge/Nagios-%230073aa.svg?style=for-the-badge&logo=nagios&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
@@ -68,6 +70,26 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+### ☁️ **AWS**
+- ✅ AWS Certified Cloud Practitioner
+
+### ☁️ **Microsoft Azure**
+- ✅ AZ-900: Microsoft Azure Fundamentals  
+- ✅ SC-900: Microsoft Security, Compliance, and Identity Fundamentals  
+- ✅ AI-900: Microsoft Azure AI Fundamentals  
+- ✅ DP-900: Microsoft Azure Data Fundamentals  
+- ✅ AZ-104: Microsoft Azure Administrator Associate  
+- ✅ AZ-204: Microsoft Azure Developer Associate  
+- ✅ AZ-400: Microsoft Azure DevOps Engineer Expert
+
+### ☁️ **Google Cloud**
+- ✅ GCP Associate Cloud Engineer (ACE)  
+- ✅ GCP Professional Cloud DevOps Engineer
 
 ---
 
