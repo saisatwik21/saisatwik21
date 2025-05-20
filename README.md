@@ -101,4 +101,4 @@
 
 ### ✍️ Random Dev Quote
 <p align="justify">"DevOps is not a goal, but a never-ending process of continual improvement."  
-<br>“Infrastructure is code. Automate everything.”</p>
+<br>“Infrastructure is code. Automate everything. ”</p>
