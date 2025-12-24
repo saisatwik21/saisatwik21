@@ -83,7 +83,8 @@ I actively implement **DevSecOps practices**, including **SAST, DAST, and contai
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=saisatwik21&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=saisatwik21&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saisatwik21&theme=tokyonight)
 
